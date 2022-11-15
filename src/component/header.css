@@ -1,0 +1,19 @@
+img{
+ height:auto;width: 20%;
+}
+.memehead{
+    display:flex;
+    align-items:center;
+    justify-content:left;
+    margin: 0px;
+    padding:0;
+    background-color:rgb(146, 255, 250);
+    /* margin-top: ///; */
+    
+}
+p{
+    font-size:3rem;
+    color:rgb(233, 52, 6);
+    font-weight: 700;
+}
+
